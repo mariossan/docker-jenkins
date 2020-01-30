@@ -1,0 +1,9 @@
+Started by user [8mha:////4LdpPm52mgEaJuSipAFXdTrF0/b+wWLtiOOCotwpP2enAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzZEgZu/dLi1CL9xJTczDwAR/J3psAAAAA=[0mMario Guadalupe Sanchez Silva
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins5904135382093051237.sh
++ NOMBRE=mario
++ APELLIDO=sanchez
++ sh /opt/script.sh mario sanchez
+Hola mario sanchez
+Finished: SUCCESS

@@ -1,4 +1,5 @@
 version: '3'
+
 services:
   jenkins:
     image: jenkins/jenkins:lts
@@ -8,14 +9,3 @@ services:
     ports:
       - 8080:8080
     restart: always
-    networks:
-      - net
-  # remote_host:
-  #   container_name: remote-host
-  #   image: remote-host
-  #   build:
-  #     context: ubuntu
-  #   networks:
-  #     - net
-networks:
-  net:
