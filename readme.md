@@ -11,7 +11,8 @@ Para generar las llaves se hace con la siguiente instrucción
 El cual generá 2 archivos
 ```
     $ ls 
-    key_name    key_name.key
+    key_name    
+    key_name.key
 ```
 
 Para poder hacer la conexion dentro de jenkins el server se queda con el key_name
